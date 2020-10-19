@@ -26,7 +26,7 @@ You will have one week to ramp up on the underlying concepts and complete the as
 
 <img src="https://i.ibb.co/KG8NJMX/Screen-Shot-2020-10-06-at-11-43-40-AM.png" alt="Screen-Shot-2020-10-06-at-11-43-40-AM" border="0">
 
-<br>
+<br> 
 I know I have two movies on one line but it's hard to choose. You can do the same.
 
 ## Follow These Steps To Implement YOUR VERSION Of The Final Product
